@@ -1,5 +1,5 @@
 import React from 'react';
-import background from '../assets/images/mu.jpg';
+import background from '/assets/images/mu.jpg';
 import Image from 'next/image';
 
 
